@@ -1,0 +1,46 @@
+body 
+    {background-color:black;
+    font-family: arial;
+    color: white}
+
+h1
+    {color:grey;
+    font-family: Verdana;}
+
+.maindiv{
+    background-color: white;
+    color: black;
+    width: 490px;
+    padding: 20px;
+    border-radius: 25px;
+    
+}
+/* 
+.fields{
+    
+    width: 500;
+    align: center;} */
+
+.col-25 {
+    
+    float: left;
+    width: 25%;
+    margin-top: 6px;
+  }
+  
+.col-75 {
+    
+    float: left;
+    width: 75%;
+    margin-top: 6px;
+  }
+
+
+
+footer{
+    text-align: left
+}
+
+
+
+
