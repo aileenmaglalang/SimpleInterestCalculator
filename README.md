@@ -1,4 +1,4 @@
-Simple Interest Calculator
+# Simple Interest Calculator
 
 ●	Final Project for Introduction to Web Development with HTML, CSS, JavaScript (IBM - COURSERA)
 
